@@ -6,29 +6,30 @@ title: Chirag Vashist
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Microsoft 
-  url: https://www.microsoft.com/en-in/msidc/
+- name: APEX Lab 
+  url: https://www.sfu.ca/~keli/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision, Continual Learning and Biometric Identification.
 
 # Interests to show in About widget
 interests:
+- Generative Modelling
 - Computer Vision
-- Continual Learning
-- Biometric Identification
-
 
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Computing Science
+    institution: Simon Fraser University, Burnaby
+    year: 2022-Present
   - course: B.Tech (Honors) in Computer Science and Technology
     institution: Indian Institute of Technology, Mandi
-    year: 2020
+    year: 2016-20
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,10 +62,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello There! I am a Software Engineer working in Microsoft working in the domain of Digital Security and Risk.
 
-I received my B.Tech. Honors degree in Computer Science with Minor in Management from Indian Institute of Technology, Mandi. My research interest is Computer Vision with application in biometric recognition and security. As part of my final-year thesis, I worked on optimizing the indexing of biometric data and generation of cancellable biometric templates.
+Hello There! My name is Chirag Vashist. I am a Ph.D. student at Simon Fraser University, Burnaby. I am affiliated with APEX Lab and my advisor is [Dr. Ke Li](https://www.sfu.ca/~keli/).
 
-I have also volunteered as an administrator and mentor at Australian Open-Source Software Innovation and Education (AOSSIE). As a Google-Summer-of-Code student for AOSSIE, I worked on Mind The Word, a language immersion browser extension.
+Before this, I worked as a Software Engineer at Microsoft in the domain of [Digital Security and Risk](https://github.com/azsk/AzTS-docs). I received my B.Tech. Honors degree in Computer Science from Indian Institute of Technology, Mandi.
 
+In spare time, I like to have [fun](https://unsplash.com/@serchirag) with my Nikon D5600. 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
